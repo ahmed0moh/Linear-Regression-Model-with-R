@@ -1,6 +1,6 @@
 # 🚗 Linear Regression & Matrix Analysis with R – mtcars Dataset
 
-This project is a comprehensive exploration of *matrix operations, **statistical analysis, and **linear regression modeling* in *R* using the classic mtcars dataset.  
+This project is a comprehensive exploration of **matrix operations**, **statistical analysis**, and **linear regression modeling** in *R* using the classic mtcars dataset.  
 It includes everything from basic matrix manipulations to building and optimizing linear models.
 
 ---
@@ -12,7 +12,7 @@ It includes everything from basic matrix manipulations to building and optimizin
 - ✅ Mean calculations with matrix operations
 - ✅ Data exploration: max horsepower, correlation matrix, and most influential variable
 - ✅ Hypothesis testing (T-test) to evaluate transmission types
-- ✅ Multiple linear regression and *stepwise regression (AIC-based)*
+- ✅ Multiple linear regression and **stepwise regression (AIC-based)**
 - ✅ Data visualization using ggplot2 and corrplot
 
 ---
